@@ -1,0 +1,12 @@
+ID
+Summary
+Description
+Actual_result
+Expected_result
+Steps to reproduce
+Reproducible
+Severity
+Priority
+Symptom
+Status
+
